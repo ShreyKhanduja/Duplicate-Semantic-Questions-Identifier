@@ -4,4 +4,5 @@ A project to find weather given 2 questions are same are not semantically speaki
 Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details
+<p> This project is licensed under the MIT License - see the <a href=./LICENSE> LICENSE </a> file for details </p>
+
